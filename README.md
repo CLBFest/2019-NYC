@@ -8,9 +8,9 @@
 
 ## Overview:
 
-This event is the NYC node of the 2019 Computational Law & Blockchain Festival (global hashtag #clbfest2019 and local hashtag: #clbfest2019nyc).
+This meetup on Friday evening, March 29th and all-day Saturday, March 30th is the NYC node of the 2019 Computational Law & Blockchain Festival (global hashtag #clbfest2019 and local hashtag: #clbfest2019nyc).
 
-This meetup on March 30th at the Bushwick Generator is part of a month-long global event series bringing together coders, designers, lawyers, policymakers, researchers, and students to co-create the future of law, legal practice, and policy. In the spirit of decentralization, the Festival is hosted at independent, self-organized nodes in cities around the world during the month of March.
+This event at the Bushwick Generator is part of a month-long global event series bringing together coders, designers, lawyers, policymakers, researchers, and students to co-create the future of law, legal practice, and policy. In the spirit of decentralization, the Festival is hosted at independent, self-organized nodes in cities around the world during the month of March.
 
 The 2019 CLB Fest team are organizing a core set of discussion sessions.
 In addition, you can propose sessions for the Learn, Hack or Discuss tracks of the 2019 CLB Fest NYC Node through this form: [https://goo.gl/forms/TDtxMMe09GEU39Zi1](https://goo.gl/forms/TDtxMMe09GEU39Zi1)
