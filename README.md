@@ -6,6 +6,9 @@
 
 * [https://www.meetup.com/legalhackers](https://www.meetup.com/legalhackers/events/258401756)
 
+<img width="526" alt="Screen Shot 2019-03-12 at 9 12 25 PM" src="https://user-images.githubusercontent.com/2357755/54247052-d01d8e00-450d-11e9-9407-821b1e4fcaaf.png">
+
+
 ## Overview:
 
 This meetup on Friday evening, March 29th and all-day Saturday, March 30th is the NYC node of the 2019 Computational Law & Blockchain Festival (global hashtag #clbfest2019 and local hashtag: #clbfest2019nyc).
