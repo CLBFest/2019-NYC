@@ -21,6 +21,12 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 * The Bushwick Generator: [https://www.thebushwickgenerator.com](https://www.thebushwickgenerator.com)
 * The 2019 CLB Fest Umbrella Page: [https://legalhackers.org/clbfest2019](https://legalhackers.org/clbfest2019)
 
+## Agenda:
+
+
+> Coming Soon
+
+
 ## Partners:
 
 * New York Legal Hackers: [https://www.meetup.com/legalhackers](https://www.meetup.com/legalhackers)
@@ -31,13 +37,9 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 
 * Stanford Journal of Blockchain Law & Policy: [https://stanford-jblp.pubpub.org]( https://stanford-jblp.pubpub.org)
 
-Sponsors:
+## Sponsors:
 
 * Orrick: [https://www.orrick.com/Practices/Blockchain-and-Cryptocurrency](https://www.orrick.com/Practices/Blockchain-and-Cryptocurrency)
 
 * Greenberg Traurig: [https://www.gtlaw.com/en/capabilities/blockchain](https://www.gtlaw.com/en/capabilities/blockchain)
 
-
-## Agenda:
-
-Coming Soon
