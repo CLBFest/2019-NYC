@@ -60,7 +60,16 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 * Steve Nam
 * Pip Ryan
 
-### 4:40 - 5:30 Facilitated Discussion
+### 4:40 - 5:30 Concurrent Breakout Sessions
+
+**Discussing	Governing Data-as-Property with the Traditional 'Bundle of Rights'**
+* Session leader: W E Perry,Managing Director at Fiduciary Automation
+
+**Learning	Legal and Contract Issues for dApps**
+* Session leader: Kurt Watkins is Of Counsel to MG Miller and provides corporate and technology contract expertise to help startups generate revenue and attract investment 
+
+**More Breakout Sessions can be Proposed through [THIS FORM](https://goo.gl/forms/TDtxMMe09GEU39Zi1)**
+
 
 ### 5:30 - 6:00 Wrap up and Networking
 
