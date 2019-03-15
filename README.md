@@ -21,11 +21,54 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 * The Bushwick Generator: [https://www.thebushwickgenerator.com](https://www.thebushwickgenerator.com)
 * The 2019 CLB Fest Umbrella Page: [https://legalhackers.org/clbfest2019](https://legalhackers.org/clbfest2019)
 
-## Agenda:
+-------------------------------------
 
+## Working Agenda
 
-> Coming Soon
+### 11:00 DOOR OPEN
 
+### 11:30 - 12:00 Computational Law Fundamentals
+
+* Dazza Greenwood, Scientist, MIT Media Lab; law.MIT.edu
+* Bryan Wilson, KCMO Legal Hackers 
+
+### 12:10 - 1:00 Blockchain Compliance Today Q&A
+
+* Jonathan Askin, Professor, Brooklyn Law School
+* Lisa LeFever (Compliance & Operations Associate, LGO Group)
+* Daniel Nathan (Partner at Orrick, Co-Chair of its Blockchain and Cryptocurrency Group) 
+* Jorge Pesok (Managing Associate at Orrick, “On the Chain” Blogger)
+
+> Followed by Q&A with the speakers
+
+### 1:00 - 2:30 LUNCH
+
+### 2:30 - 3:20 Automated and Autonomous Valid Legal Entities
+
+* Dazza Greenwood, Scientist, MIT Media Lab; law.MIT.edu
+* Silke Noa Elrifai, GNOSIS General Counsel; CLO 
+* Jonathan Askin, Professor, Brooklyn Law School
+* More speakers to be announced
+
+> Followed by Q&A with the speakers
+
+### 3:30 - 4:30 Blockchain (Decentralized) Governance Roundtable
+
+* Jonathan Askin
+* Gayan Benedict (CIO of Reserve Bank of Australia)
+* Michael Chan
+* Steve Nam
+* Pip Ryan
+
+### 4:40 - 5:30 Facilitated Discussion
+
+### 5:30 - 6:00 Wrap up and Networking
+
+### 6:30: DOORS CLOSE
+
+> NOTE: Additional speakers and sessions will be added to this event page when announced. 
+
+--------------------------------
 
 ## Partners:
 
