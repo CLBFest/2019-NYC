@@ -75,7 +75,7 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 
 ### 6:30: DOORS CLOSE
 
-> NOTE: Additional speakers and sessions will be added to this event page when announced. 
+> NOTE: Additional speakers will be added to this event page when announced. 
 
 --------------------------------
 
