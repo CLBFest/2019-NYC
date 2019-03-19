@@ -72,10 +72,10 @@ More lunch talks or other learning sessions will be posted as they are announced
 
 ### 2:30 - 3:20 Automated and Autonomous Valid Legal Entities
 
-* Dazza Greenwood, Scientist, MIT Media Lab; law.MIT.edu
-* Silke Noa Elrifai, GNOSIS General Counsel; CLO 
-* Jonathan Askin, Professor, Brooklyn Law School
-    * More speakers to be announced
+* Dazza Greenwood (Scientist, MIT Media Lab; law.MIT.edu)
+* Silke Noa Elrifai (GNOSIS General Counsel; CLO)
+* Kurt Watkins (MG Miller Intellectual Property Law)
+* Jonathan Askin (Professor, Brooklyn Law School)
 
 > Followed by Q&A with the speakers
 
