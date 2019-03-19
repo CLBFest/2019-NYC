@@ -21,44 +21,72 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 * The Bushwick Generator: [https://www.thebushwickgenerator.com](https://www.thebushwickgenerator.com)
 * The 2019 CLB Fest Umbrella Page: [https://legalhackers.org/clbfest2019](https://legalhackers.org/clbfest2019)
 
+# Working Agenda
+
 -------------------------------------
 
-## Working Agenda
+## FRIDAY, MARCH 19th
 
-### 11:00 DOOR OPEN
+### 6:00 PM - 9:00 PM	Optional Pre-Event Brainstorming
+* Join Emerick Patterson (Bushwick Generator) for an optional pre-event brainstorming session at our event venue, the Bushwick Generator!
+
+* Session Description: 
+> In preparation for our Computational Law & Blockchain hackathon taking place on March 30th (http://meetu.ps/e/GkKMx/1fg2s/a ), we wanted to set context the night before. Come join us and hear from niche legal experts who will share their digital innovations and insights, as well as discuss legal frameworks for the Bushwick Generator and for Brooklyn.
+> This will be a robust conversation that will lay the foundation for a new, more fluid form of collaboration, team formation and ideally, economic growth.
+> What we are about: We want to give #buidlers the opportunity co-create this future together and crystallize Bushwick as the ultimate experimental blockchain playground.
+> Come hear first hand how the Bushwick Generator, a 100,000 sq. ft. creative campus is committed to a crypto-savvy Bushwick.
+
+* Planning to come to this session on Friday night?  Please register here so we can plan accordingly :-) [https://www.meetup.com/BushGen/events/hbvrmqyzgbhb](https://www.meetup.com/BushGen/events/hbvrmqyzgbhb)
+
+
+-------------------------------------
+
+## SATURDAY, MARCH 30th
+
+### 11:00 DOORS OPEN
 
 ### 11:30 - 12:00 Computational Law Fundamentals
 
-* Dazza Greenwood, Scientist, MIT Media Lab; law.MIT.edu
-* Bryan Wilson, KCMO Legal Hackers 
+* Dazza Greenwood, Scientist, MIT Media Lab; [law.MIT.edu](http://law.mit.edu)
+* Bryan Wilson, [Kansas City Legal Hackers](https://www.meetup.com/KC-Legal-Hackers)
 
 ### 12:10 - 1:00 Blockchain Compliance Today Q&A
 
-* Jonathan Askin, Professor, Brooklyn Law School
+* Jonathan Askin (Professor, Brooklyn Law School)
 * Lisa LeFever (Compliance & Operations Associate, LGO Group)
-* Daniel Nathan (Partner at Orrick, Co-Chair of its Blockchain and Cryptocurrency Group) 
+* Daniel Nathan (Partner at Orrick, Co-Chair of its Blockchain and Cryptocurrency Group)
 * Jorge Pesok (Managing Associate at Orrick, “On the Chain” Blogger)
+   * [Steve Nam will moderate to the extent needed]
 
 > Followed by Q&A with the speakers
 
-### 1:00 - 2:30 LUNCH
+### 1:00 - 2:30 LUNCH AND LEARN
+
+**Lunch Talks**
+
+> **Legal Hackers Meet ISOC NY**
+	> Join Greg Shatan of ISOC and Jonathan Askin of Legal Hackers to learn what ISCO NY is, what it does and how ISOC and Legal Hackers can collaborate on policy and other activities
+  
+More lunch talks or other learning sessions will be posted as they are announced.
+
 
 ### 2:30 - 3:20 Automated and Autonomous Valid Legal Entities
 
 * Dazza Greenwood, Scientist, MIT Media Lab; law.MIT.edu
 * Silke Noa Elrifai, GNOSIS General Counsel; CLO 
 * Jonathan Askin, Professor, Brooklyn Law School
-* More speakers to be announced
+    * More speakers to be announced
 
 > Followed by Q&A with the speakers
 
 ### 3:30 - 4:30 Blockchain (Decentralized) Governance Roundtable
 
-* Jonathan Askin
-* Gayan Benedict (CIO of Reserve Bank of Australia)
-* Michael Chan
-* Steve Nam
-* Pip Ryan
+* Jonathan Askin (Professor, Brooklyn Law School)
+* Gayan Benedict (CIO of Reserve Bank of Australia) (Remote)
+* Michael Chan (OpenLaw)
+* Steve Nam (Managing Editor, Stanford J. Blockchain L. & Pol’y)
+* Philippa Ryan (University of Technology Sydney) (Remote)
+
 
 ### 4:40 - 5:30 Concurrent Breakout Sessions
 
@@ -68,8 +96,11 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 **Learning	Legal and Contract Issues for dApps**
 * Session leader: Kurt Watkins is Of Counsel to MG Miller and provides corporate and technology contract expertise to help startups generate revenue and attract investment 
 
-**More Breakout Sessions can be Proposed through [THIS FORM](https://goo.gl/forms/TDtxMMe09GEU39Zi1)**
+**DAO Design & Development: Practical Applications**
+* Session leaders: Beth McCarthy, Daniel Shavit, Ori Shimony.  This session will distill points from day-long workshop on prior day (Friday 3/19) and will cover “Mechanism Design Thinking” (user-centric design/agent-centric models), intro token engineering and incentive simulation environment and applications
 
+
+**More Breakout Sessions can be Proposed through [THIS FORM](https://goo.gl/forms/TDtxMMe09GEU39Zi1)**
 
 ### 5:30 - 6:00 Wrap up and Networking
 
