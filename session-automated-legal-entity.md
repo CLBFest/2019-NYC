@@ -1,6 +1,6 @@
 # Automated and Autonomous Valid Legal Entities
 
-Here is a short description of the topics I’d like to address: 
+Here is a short description of the topics I’d like to address on the [panel](https://clbfest.github.io/2019-NYC): 
 
 How can a software based system constitute a valid legal entity under existing law and legal processes?  
 
