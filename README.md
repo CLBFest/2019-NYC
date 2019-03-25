@@ -64,13 +64,16 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 
 **Lunch Talks**
 
+> **InterDAOs Relationships & International Dispute Resolution**
+	> Silke Noa Elrifai (GNOSIS General Counsel; CLO): One of the main issues surrounding DAOs involves limiting the liability of the DAOs’ participants vis-a-vis third parties. Various jurisdictions are currently working on resolving this issue. But is there an international approach to this issue? May we create a set of International DAO principles as part of international law?
+	
 > **Legal Hackers Meet ISOC-NY**
 	> Join Greg Shatan of ISOC-NY and Jonathan Askin of Legal Hackers to learn what the Internet Society and ISOC-NY are, what they do and how ISOC-NY and Legal Hackers can collaborate on policy and other activities.
   
 More lunch talks or other learning sessions will be posted as they are announced.
 
 
-### 2:30 - 3:20 Automated and Autonomous Valid Legal Entities
+### 2:30 - 3:20 [Automated and Autonomous Valid Legal Entities](https://github.com/CLBFest/2019-NYC/blob/master/session-automated-legal-entity.md)
 
 * Dazza Greenwood (Scientist, MIT Media Lab; law.MIT.edu)
 * Silke Noa Elrifai (GNOSIS General Counsel; CLO)
