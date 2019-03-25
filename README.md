@@ -2,7 +2,7 @@
 
 # [2019 New York City Node](https://clbfest.github.io/2019-NYC)
 
-## Register: 
+## Registration: 
 
 * [https://www.meetup.com/legalhackers](https://www.meetup.com/legalhackers/events/258401756)
 
