@@ -99,6 +99,9 @@ More lunch talks or other learning sessions will be posted as they are announced
 **DAO Design & Development: Practical Applications**
 * Session leaders: Beth McCarthy, Daniel Shavit, Ori Shimony.  This session will distill points from day-long workshop on prior day (Friday 3/19) and will cover “Mechanism Design Thinking” (user-centric design/agent-centric models), intro token engineering and incentive simulation environment and applications
 
+**Learning Smart Contracts and OpenLaw**: 
+* Session leaders: Anne Griffin, Pri Desai and Michael Chan.  Learn about smart contracts and how you can write legal agreements on the OpenLaw platform that can perform smart contract functions.
+
 
 **More Breakout Sessions can be Proposed through [THIS FORM](https://goo.gl/forms/TDtxMMe09GEU39Zi1)**
 
