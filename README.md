@@ -25,7 +25,7 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 
 -------------------------------------
 
-## FRIDAY, MARCH 19th
+## FRIDAY, MARCH 29th
 
 ### 6:00 PM - 9:00 PM	Optional Pre-Event Brainstorming
 * Join Emerick Patterson (Bushwick Generator) for an optional pre-event brainstorming session at our event venue, the Bushwick Generator!
