@@ -64,8 +64,8 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 
 **Lunch Talks**
 
-> **Legal Hackers Meet ISOC NY**
-	> Join Greg Shatan of ISOC and Jonathan Askin of Legal Hackers to learn what ISCO NY is, what it does and how ISOC and Legal Hackers can collaborate on policy and other activities
+> **Legal Hackers Meet ISOC-NY**
+	> Join Greg Shatan of ISOC-NY and Jonathan Askin of Legal Hackers to learn what the Internet Society and ISOC-NY are, what they do and how ISOC-NY and Legal Hackers can collaborate on policy and other activities.
   
 More lunch talks or other learning sessions will be posted as they are announced.
 
