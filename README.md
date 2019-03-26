@@ -126,6 +126,9 @@ More lunch talks or other learning sessions will be posted as they are announced
 
 * Stanford Journal of Blockchain Law & Policy: [https://stanford-jblp.pubpub.org]( https://stanford-jblp.pubpub.org)
 
+* Starfish Network: [https://www.starfish.network](https://www.starfish.network)
+
+
 ## Sponsors:
 
 * Orrick: [https://www.orrick.com/Practices/Blockchain-and-Cryptocurrency](https://www.orrick.com/Practices/Blockchain-and-Cryptocurrency)
