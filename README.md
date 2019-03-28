@@ -78,7 +78,7 @@ More lunch talks or other learning sessions will be posted as they are announced
 * Dazza Greenwood (Scientist, MIT Media Lab; law.MIT.edu)
 * Silke Noa Elrifai (GNOSIS General Counsel; CLO)
 * Kurt Watkins (MG Miller Intellectual Property Law)
-* Brenden Maher (Chair, BCS-VR-SIG)
+* Brenden Maher (CEO at Startup TBA)
 
 > Followed by Q&A with the speakers
 
