@@ -50,7 +50,7 @@ In addition, you can propose sessions for the Learn, Hack or Discuss tracks of t
 * Dazza Greenwood, Scientist, MIT Media Lab; [law.MIT.edu](http://law.mit.edu)
 * Bryan Wilson, Operations at RiskGenius; [Kansas City Legal Hackers](http://www.kclegalhackers.org/)
 
-  * *[Presentation Slides](https://docs.google.com/presentation/d/1yuUIahhEuP_axaimEhtfIixWE7nm5MGxpuerYTC5Mbw/edit?usp=sharing)*
+> *[Presentation Slides](https://docs.google.com/presentation/d/1yuUIahhEuP_axaimEhtfIixWE7nm5MGxpuerYTC5Mbw/edit?usp=sharing)*
 
 ### 12:10 - 1:00 Blockchain Compliance Today Q&A
 
